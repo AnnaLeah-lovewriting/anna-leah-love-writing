@@ -1,0 +1,18 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: #fffaf0;
+  color: #333;
+  margin: 0; padding: 0;
+}
+header {
+  background: #ffdfd3;
+  text-align: center;
+  padding: 20px;
+}
+h1 { margin: 0; font-weight: 500; }
+h2 { color: #a661a4; }
+main { padding: 20px; }
+ul { list-style: none; padding: 0; }
+li { background: #f7e8ff; margin: 10px 0; padding: 15px; border-radius: 8px; }
+a { text-decoration: none; color: #333; }
+footer { text-align: center; padding: 10px; background: #ffdfd3; }
